@@ -13,4 +13,4 @@ while i != N + 1:
 
 
 
-print(f"The sum of even numbers from 1 to {N} is: {sum_even}")
+print(f"The sum of even numbers from 1 to {N} is: {sum_even}") 

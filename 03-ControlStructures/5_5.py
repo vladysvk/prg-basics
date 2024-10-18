@@ -15,4 +15,4 @@ while True:
 arithmetic_mean = total_sum / count
 
 print(f"The total sum of the numbers is: {total_sum}")
-print(f"Arithmetic mean of the numbers is: {arithmetic_mean}")
+print(f"Arithmetic mean of the numbers is: {arithmetic_mean}") 
